@@ -1,5 +1,5 @@
 
-![logo](https://github.com/theravikanttiwari/portfolio_ravikant-website-1/blob/main/ravikant_tiwari.jpeg)
+
 
 <h1 align="center">Hi 👋, I'm Ravikant tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
